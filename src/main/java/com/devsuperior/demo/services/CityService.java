@@ -26,4 +26,13 @@ public class CityService {
 
 	}
 
+	public CityDTO insert(CityDTO dto) {
+		City city = new City();
+		city.setId(dto.getId());
+		city.setName(dto.getName());
+		
+		city = repository.save(city);
+		return new CityDTO(city);
+	}
+
 }
