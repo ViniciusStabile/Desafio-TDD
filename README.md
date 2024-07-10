@@ -15,3 +15,17 @@ Os testes automatizados a seguir foram desenvolvidos e as funcionalidades corres
 - `deleteShouldReturnNoContentWhenIndependentId`: Deletar deve retornar "No Content" quando há um ID independente.
 - `insertShouldInsertResource`: Inserir deve inserir o recurso.
 - `findAllShouldReturnAllResourcesSortedByName`: Buscar todos deve retornar todos os recursos ordenados por nome.
+
+## Tecnologias Utilizadas
+
+- Java
+- Spring Boot
+- JUnit
+- Maven
+- SQL
+- Git
+
+## Ferramentas Utilizadas
+
+- SpringToolSuite4 IDEA (ou outra IDE de sua preferência)
+- Postman (para testar APIs)
