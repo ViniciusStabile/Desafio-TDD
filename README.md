@@ -1,8 +1,8 @@
-# Desafio Empregados TDD
+# Desafio TDD Event City
 
 ## Descrição do Projeto
 
-Este projeto é um sistema de funcionários e departamentos com uma relação N-1 entre eles. A especificação do que deve ser implementado está no próprio código fonte dos testes automatizados. O objetivo é implementar as funcionalidades para que todos os testes passem.
+Este projeto é um sistema de eventos e cidades com uma relação N-1 entre eles. A especificação do que deve ser implementado está no próprio código fonte dos testes automatizados. O objetivo é implementar as funcionalidades para que todos os testes passem.
 
 ## O que é TDD?
 
